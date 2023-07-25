@@ -15,7 +15,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,html,css,js,gradle,maven,hibernate,java,jquery,linux,md,mysql,postman,react,spring" />
   </a>
-</
+</p>
 
 ## Sub
 <p align="center">
