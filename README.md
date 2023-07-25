@@ -1,8 +1,5 @@
-### Hi there 👋
-
+# Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcastlehyeon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-# Hello, world! :gift_heart:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=castlehyeon&show_icons=true&theme=buefy)<img src="![image](https://github.com/castlehyeon/castlehyeon/assets/53210680/d884ae8d-9099-4faa-9cc0-cbc017424b91)
 " width="180"/>
