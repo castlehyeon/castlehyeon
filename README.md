@@ -4,7 +4,8 @@
 
 # Hello, world! :gift_heart:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=castlehyeon&show_icons=true&theme=buefy)<img src="https://user-images.githubusercontent.com/81840814/200132249-49e05981-642d-4df2-a412-868a43d883d4.jpeg" width="180"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=castlehyeon&show_icons=true&theme=buefy)<img src="![image](https://github.com/castlehyeon/castlehyeon/assets/53210680/d884ae8d-9099-4faa-9cc0-cbc017424b91)
+" width="180"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=castlehyeon)](https://solved.ac/vgg789)
  
