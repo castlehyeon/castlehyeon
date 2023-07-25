@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=castlehyeon&show_icons=true&theme=buefy)<img src="![image](https://github.com/castlehyeon/castlehyeon/assets/53210680/d884ae8d-9099-4faa-9cc0-cbc017424b91)
 " width="180"/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=castlehyeon)](https://solved.ac/vgg789)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qnftktls118)](https://solved.ac/vgg789)
  
 # :muscle: Skills
 ## Main
