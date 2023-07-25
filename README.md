@@ -13,20 +13,20 @@
 ## Main
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws, html, css, js, gradle,  maven, hibernate, java, jquery, linux, md, mysql, postman, react, spring" />
+    <img src="https://skillicons.dev/icons?i=git,aws,html,css,js,gradle,maven,hibernate,java,jquery,linux,md,mysql,postman,react,spring" />
   </a>
 </
 
 ## Sub
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i= django, figma, linux, nodejs, netlify, materialui, postman, py, tailwind, docker,vim" />
+    <img src="https://skillicons.dev/icons?i=django,figma,linux,nodejs,netlify,materialui,postman,py,tailwind,docker,vim" />
   </a>
 </p>
 
 ## Bulid tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea, eclipse, vscode" />
+    <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" />
   </a>
 </p>
